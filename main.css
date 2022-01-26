@@ -1,0 +1,21 @@
+body{
+    background-color: black;
+    color: white;
+}
+.card{
+    background-color: #333;
+    color: white;
+}
+
+.none{
+    display: none;
+}
+
+.btn{
+    padding: 3px;
+}
+
+.checked{
+    background-color: gray;
+    text-decoration: line-through;
+}
